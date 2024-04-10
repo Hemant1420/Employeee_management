@@ -1,0 +1,17 @@
+E:\c# projects\EmployeeManagement Api\RepositoryLayer\bin\Debug\net8.0\RepositoryLayer.deps.json
+E:\c# projects\EmployeeManagement Api\RepositoryLayer\bin\Debug\net8.0\RepositoryLayer.runtimeconfig.json
+E:\c# projects\EmployeeManagement Api\RepositoryLayer\bin\Debug\net8.0\RepositoryLayer.dll
+E:\c# projects\EmployeeManagement Api\RepositoryLayer\bin\Debug\net8.0\RepositoryLayer.pdb
+E:\c# projects\EmployeeManagement Api\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.csproj.AssemblyReference.cache
+E:\c# projects\EmployeeManagement Api\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# projects\EmployeeManagement Api\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.AssemblyInfoInputs.cache
+E:\c# projects\EmployeeManagement Api\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.AssemblyInfo.cs
+E:\c# projects\EmployeeManagement Api\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+E:\c# projects\EmployeeManagement Api\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.dll
+E:\c# projects\EmployeeManagement Api\RepositoryLayer\obj\Debug\net8.0\refint\RepositoryLayer.dll
+E:\c# projects\EmployeeManagement Api\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.pdb
+E:\c# projects\EmployeeManagement Api\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.genruntimeconfig.cache
+E:\c# projects\EmployeeManagement Api\RepositoryLayer\obj\Debug\net8.0\ref\RepositoryLayer.dll
+E:\c# projects\EmployeeManagement Api\RepositoryLayer\bin\Debug\net8.0\ModelLayer.dll
+E:\c# projects\EmployeeManagement Api\RepositoryLayer\bin\Debug\net8.0\ModelLayer.pdb
+E:\c# projects\EmployeeManagement Api\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.csproj.CopyComplete
